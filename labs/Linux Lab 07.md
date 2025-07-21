@@ -26,7 +26,7 @@ Changed the ownership of the `project_r.txt` file, located in `/home/researcher2
 - **Added a Secondary Group:**  
 Expanded `researcher9`'s responsibilities by adding them to the `sales_team` as a secondary group using the `usermod -a -G` command, without affecting their existing group memberships.
 
-![Usermod Add Group Example](../images/linux_lab7_usermod_group.png)
+![Usermod Add Group Example](../images/linux_lab7_usermod.png)
 
 - **Deleted a User and Cleaned Up Group:**  
 Removed the `researcher9` user from the system using the `userdel` command. Also deleted the associated group with `groupdel` to clean up the environment, following good administrative practice.
