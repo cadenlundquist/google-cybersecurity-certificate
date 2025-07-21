@@ -19,7 +19,7 @@ This lab provided hands-on experience with fundamental Linux Bash commands for m
 
 - Deleted the temp directory from /home/analyst using rm -r, and confirmed its removal through directory listing.
 
-![Rm Command Example](../images/linux_lab5_rm.png)
+![Rm Command Example](../images/linux_lab5_rmdir.png)
 
 - Moved Q3patches.txt from the notes directory to the reports directory, aligning file organization with the reporting structure and ensuring all quarterly reports were in one location.
 
