@@ -25,7 +25,7 @@ Practiced using the `echo` command to print text to the shell. I tested both unq
 
 Used the `expr` command to carry out simple arithmetic operations. This included subtraction (e.g., identifying false positive alerts) and multiplication (e.g., estimating annual login attempts), reinforcing how spacing between operands is necessary in shell arithmetic.
 
-![Command line prompt showing subtraction command](images/linux_lab2_subtraction.png)
+![Command line prompt showing subtraction command](../images/linux_lab2_subtraction.png)
 
 ---
 
@@ -39,7 +39,7 @@ Used the `clear` command to wipe the shell screen, providing a clean workspace f
 
 Applied the `echo` and `expr` commands independently to practice generating custom outputs and performing additional calculations.
 
-![Command line prompt showing division command](images/linux_lab2_division.png)
+![Command line prompt showing division command](../images/linux_lab2_division.png)
 
 ---
 
