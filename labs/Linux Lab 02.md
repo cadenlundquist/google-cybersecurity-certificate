@@ -11,7 +11,7 @@ This lab focused on using foundational Bash commands to generate and manipulate 
 
 ---
 
-## 🔑 Key Tasks and Learnings
+## ✅ Key Tasks and Learnings
 
 ### ✅ Generated Output with `echo`
 Practiced using the `echo` command to print text to the shell. Tested both unquoted and quoted strings to understand how quotation marks help group words or special characters as a single argument.
