@@ -46,7 +46,7 @@ Applied `echo` and `expr` independently to:
 
 ---
 
-## 🛠️ Skills Demonstrated
+## 💻 Skills Demonstrated
 
 - Proficient use of `echo` for text output  
 - Basic arithmetic with `expr` for shell-based calculations  
