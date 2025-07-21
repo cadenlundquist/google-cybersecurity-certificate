@@ -1,2 +1,2 @@
-# cybersecurity-certificates
-Projects and labs completed during my cybersecurity certifications.
+# google-cybersecurity-certificate
+Projects and labs completed during this cybersecurity certification.
