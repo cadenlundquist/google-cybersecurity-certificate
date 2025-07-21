@@ -33,9 +33,7 @@ Used the `clear` command to wipe the shell screen, creating a clean workspace fo
 
 
 ### Explored Optional Exercises
-Applied `echo` and `expr` independently to:
-- Generate custom outputs  
-- Perform additional calculations  
+Applied `echo` and `expr` independently to generate custum outputs and perform additional calculations. 
 
 ![Optional Exercises Screenshot](../images/linux_lab2_division.png)
 
