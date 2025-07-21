@@ -1,4 +1,4 @@
-# 🖥️ Lab #2: Working with Input and Output in the Linux Bash Shell
+# Lab #2: Working with Input and Output in the Linux Bash Shell
 
 **Platform**: Google Cybersecurity Certificate  
 **Lab Focus**: Input/Output Commands and Arithmetic Operations in the Bash Shell
