@@ -17,7 +17,7 @@ This lab focused on using foundational Bash commands to generate and manipulate 
 
 Practiced using the `echo` command to print text to the shell. I tested both unquoted and quoted strings, understanding how quotation marks help group words or special characters as a single argument.
 
-![Command line prompt showing echo command](..images/linux_lab2_echo.png)
+![Command line prompt showing echo command](../images/linux_lab2_echo.png)
 
 ---
 
