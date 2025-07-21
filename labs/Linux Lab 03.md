@@ -1,4 +1,4 @@
-# 🖥️ Lab #3: Navigating Directories and Reading Files in the Linux Bash Shell
+# Lab #3: Navigating Directories and Reading Files in the Linux Bash Shell
 
 **Platform**: Google Cybersecurity Certificate  
 **Lab Focus**: File System Navigation and File Reading in the Bash Shell
