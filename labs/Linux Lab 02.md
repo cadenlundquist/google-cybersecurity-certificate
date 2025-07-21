@@ -20,10 +20,7 @@ Practiced using the `echo` command to print text to the shell. Tested both unquo
 
 
 ### Performed Calculations with `expr`
-Used the `expr` command to perform simple arithmetic operations. This included:
-- Subtraction (e.g., identifying false positive alerts)
-- Multiplication (e.g., estimating annual login attempts)  
-Reinforced the importance of spacing between operands in shell arithmetic.
+Used the `expr` command to perform simple arithmetic operations. This included subtraction (e.g., identifying false positive alerts) and multiplication (e.g., estimating annual login attempts), reinforcing how spacing between operands is necessary in shell arithmetic.
 
 ![Expr Arithmetic Example](../images/linux_lab2_subtraction.png)
 
