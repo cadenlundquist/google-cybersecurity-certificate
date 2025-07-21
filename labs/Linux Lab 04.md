@@ -1,4 +1,4 @@
-# 🖥️ Lab #4: Searching and Filtering Files with grep in the Linux Bash Shell
+# Lab #4: Searching and Filtering Files with grep in the Linux Bash Shell
 
 **Platform**: Google Cybersecurity Certificate  
 **Lab Focus**: Text Searching and Filtering with grep in the Bash Shell
