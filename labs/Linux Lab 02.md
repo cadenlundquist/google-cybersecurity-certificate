@@ -13,14 +13,13 @@ This lab focused on using foundational Bash commands to generate and manipulate 
 
 ## ✅ Key Tasks and Learnings
 
-### ✅ Generated Output with `echo`
+### Generated Output with `echo`
 Practiced using the `echo` command to print text to the shell. Tested both unquoted and quoted strings to understand how quotation marks help group words or special characters as a single argument.
 
 ![Echo Command Example](images/echo-example.png)
 
----
 
-### ➗ Performed Calculations with `expr`
+### Performed Calculations with `expr`
 Used the `expr` command to perform simple arithmetic operations. This included:
 - Subtraction (e.g., identifying false positive alerts)
 - Multiplication (e.g., estimating annual login attempts)  
@@ -28,16 +27,14 @@ Reinforced the importance of spacing between operands in shell arithmetic.
 
 ![Expr Arithmetic Example](images/expr-arithmetic.png)
 
----
 
-### 🧹 Cleared the Shell with `clear`
+### Cleared the Shell with `clear`
 Used the `clear` command to wipe the shell screen, creating a clean workspace for continued input.
 
 ![Clear Command Example](images/clear-command.png)
 
----
 
-### 🧪 Explored Optional Exercises
+### Explored Optional Exercises
 Applied `echo` and `expr` independently to:
 - Generate custom outputs  
 - Perform additional calculations  
@@ -54,6 +51,8 @@ Applied `echo` and `expr` independently to:
 - Understanding of input/output structure and syntax in Bash  
 
 ---
+
+## 🔁 Reflections
 
 These tasks helped build confidence in interacting with the Linux terminal and prepared me for more complex scripting and system management tasks.
 
