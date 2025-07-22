@@ -1,4 +1,4 @@
-# 🧮 Lab #4(SQL): Filtering Records Using Logical Operators in SQL
+# Lab #4(SQL): Filtering Records Using Logical Operators in SQL
 
 **Platform**: Google Cybersecurity Certificate  
 **Lab Focus**: SQL Logical Operators (`AND`, `OR`, `NOT`)
