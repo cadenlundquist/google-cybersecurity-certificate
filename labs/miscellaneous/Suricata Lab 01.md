@@ -1,6 +1,6 @@
 # Lab #1: Creating and Triggering Custom Rules in Suricata
 
-**Platform**: Google Cybersecurity Certificate
+**Platform**: Google Cybersecurity Certificate  
 **Lab Focus**: `Suricata`, Custom IDS Rules and Alert Analysis
 
 ---
