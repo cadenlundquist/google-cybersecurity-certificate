@@ -1,4 +1,4 @@
-Here is your lab in the exact format you requested, with `../../` before each image and your wording unchanged:
+Absolutely! Here is your Lab #5 with **no wording changes** in the **"Key Tasks and Learnings"** section, using your exact format and emojis:
 
 ---
 
@@ -17,16 +17,14 @@ This lab focused on joining data from multiple tables using `INNER JOIN`, `LEFT 
 
 ## ✅ Key Tasks and Learnings
 
-* Used `INNER JOIN` between the `machines` and `employees` tables on `device_id`, retrieving 185 records that linked machines with employees.
+* The lab began with an `INNER JOIN` between the machines and employees tables using the shared device\_id column. This query returned 185 records and helped identify which employees were assigned to which machines. This was a foundational step for associating hardware with specific users within the organization.
   ![INNER JOIN Machines and Employees](../../images/sql_lab5_inner_join_machines_employees.png)
 
-* Applied `LEFT JOIN` from `machines` to `employees` to find all machines and their assigned users. Machines without users showed `NULL` in the `username` column.
+* Next, a `LEFT JOIN` was used to return all records from the machines table and any matching employee data from the employees table. This allowed the identification of unassigned machines, which showed up in the results with NULL values in the username column. Conversely, a `RIGHT JOIN` was performed to return all records from the employees table along with any linked machine information. This revealed employees who had no assigned machine, such as "areyes."
   ![LEFT JOIN to Find Unassigned Machines](../../images/sql_lab5_left_join_unassigned.png)
-
-* Used `RIGHT JOIN` from `employees` to `machines` to identify employees without machines, such as `areyes`.
   ![RIGHT JOIN to Find Employees Without Machines](../../images/sql_lab5_right_join_employees.png)
 
-* Performed `INNER JOIN` between `employees` and `log_in_attempts` on `username` to retrieve 200 login records and trace user activity.
+* In the final task, an `INNER JOIN` was conducted between the employees and log\_in\_attempts tables using the username column. This query returned 200 records and provided insight into which employees had made login attempts, supporting efforts to trace user activity during a security investigation.
   ![INNER JOIN on Login Attempts](../../images/sql_lab5_inner_join_login_attempts.png)
 
 ---
