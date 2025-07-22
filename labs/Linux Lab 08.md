@@ -22,8 +22,8 @@ Used the `whatis` command to quickly understand the function of `cat`, confirmin
 Explored the `cat` and `useradd` commands using the `man` command, learning how to view detailed documentation and options for each. For example, learned that the `-n` or `-b` options can be used to number lines in `cat`, and `-e` sets an account expiration in `useradd`.
 
 ![Man Pages Example](../images/linux_lab8_man_cat.png)
-![Man Pages Example](../images/linux_lab8_man_useradd.png)
-![Man Pages Example](../images/linux_lab8_man_expire.png)
+![Man Pages Example](../images/linux_lab8_useradd.png)
+![Man Pages Example](../images/linux_lab8_expire.png)
 
 - **Searched Commands with `apropos`:**  
 Used the `apropos` command to search for commands related to keywords like "first part file," identifying `head` as the command used to display the beginning of a file.
