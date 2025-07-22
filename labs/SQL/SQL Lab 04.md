@@ -11,7 +11,7 @@ This lab focused on using logical operators like `AND`, `OR`, and `NOT` to filte
 
 ---
 
-## 🛠️ Key Tasks and Learnings
+## ✅ Key Tasks and Learnings
 
 - **Filtered failed login attempts after business hours**  
   Used `WHERE login_time > '18:00' AND success = 0`, identifying **19** such records.  
@@ -39,7 +39,7 @@ This lab focused on using logical operators like `AND`, `OR`, and `NOT` to filte
 
 ---
 
-## 🧩 Skills Demonstrated
+## 💻 Skills Demonstrated
 
 - Applied the `AND` operator to enforce multiple conditions in queries  
 - Used `OR` to return data matching either of two conditions  
@@ -49,6 +49,6 @@ This lab focused on using logical operators like `AND`, `OR`, and `NOT` to filte
 
 ---
 
-## 🧠 Reflection
+## 🔁 Reflection
 
 This lab helped reinforce logical filtering in SQL, an essential capability for precise data analysis, especially in security investigations and administrative reporting.
