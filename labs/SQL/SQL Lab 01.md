@@ -14,16 +14,16 @@ This lab provided hands-on experience with foundational SQL commands used to ret
 ## ✅ Key Tasks and Learnings
 
 - Retrieved full table data using `SELECT *` to return all available data from the `machines` and `log_in_attempts` tables, confirming their structure and content.  
-  ![Full Table Query Example](../images/sql_lab1_full_table.png)
+  ![Full Table Query Example](../../images/sql_lab1_full_table.png)
 
 - Used `SELECT` with specific column names (e.g., `device_id`, `email_client`, `OS_patch_date`) to retrieve targeted information.  
-  ![Specific Columns Example](../images/sql_lab1_select_columns.png)
+  ![Specific Columns Example](../../images/sql_lab1_select_columns.png)
 
 - Investigated login attempts based on geographic origin and time by querying `log_in_attempts`, helping identify abnormal or unauthorized activity.  
-  ![Geolocation Query Example](../images/sql_lab1_login_geo.png)
+  ![Geolocation Query Example](../../images/sql_lab1_login_geo.png)
 
 - Applied the `ORDER BY` clause to sort records by `login_date` and `login_time`, supporting timeline-based analysis of login behavior.  
-  ![Order By Query Example](../images/sql_lab1_order_by.png)
+  ![Order By Query Example](../../images/sql_lab1_order_by.png)
 
 ---
 
