@@ -15,16 +15,16 @@ This lab focused on using the `grep` command in a Linux environment to efficient
 
 - Navigated to the `/home/analyst/logs` directory and used `grep` to extract all lines containing the string "error" from `server_logs.txt`, identifying the number of error messages present in the system logs.
 
-![Grep Errors Example](../images/linux_lab4_grep_server_logs.png)
+![Grep Errors Example](../../images/linux_lab4_grep_server_logs.png)
 
 - Accessed the `/home/analyst/reports/users` directory and used piped commands (`ls | grep`) to list files whose names contained the strings "Q1" and "access", demonstrating the ability to locate targeted files quickly based on naming conventions.
 
-![Grep Multi-word Example](../images/linux_lab4_ls_grep_Q1.png)
+![Grep Multi-word Example](../../images/linux_lab4_ls_grep_Q1.png)
 
 - Searched within `Q2_deleted_users.txt` for a specific username (jhill) and analyzed `Q4_added_users.txt` to identify users added to the Human Resources department, using quoted strings to handle multi-word search terms.
 
-![Grep Multi-word Example](../images/linux_lab4_grep_jhill.png)
-![LS Grep Piped Example](../images/linux_lab4_ls_grep.png)
+![Grep Multi-word Example](../../images/linux_lab4_grep_jhill.png)
+![LS Grep Piped Example](../../images/linux_lab4_ls_grep.png)
 
 ---
 
