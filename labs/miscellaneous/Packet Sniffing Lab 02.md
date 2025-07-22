@@ -1,6 +1,6 @@
 # Lab #2: Capturing and Inspecting Network Traffic with tcpdump
 
-**Platform**: Google Cybersecurity Certificate
+**Platform**: Google Cybersecurity Certificate  
 **Lab Focus**: `tcpdump`, Network Traffic Capture and Analysis
 
 ---
