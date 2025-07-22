@@ -1,7 +1,3 @@
-Absolutely! Here is your Lab #5 with **no wording changes** in the **"Key Tasks and Learnings"** section, using your exact format and emojis:
-
----
-
 # Lab #5: Using SQL Joins to Combine Data Across Tables
 
 **Platform**: Google Cybersecurity Certificate
