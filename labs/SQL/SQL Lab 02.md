@@ -16,7 +16,7 @@ This lab provided hands-on experience with writing SQL queries to selectively re
 - Queried specific columns (`device_id` and `operating_system`) from the `machines` table using `SELECT`, confirming the structure of device records and identifying a total of 200 machines.  
   ![Select Specific Columns](../../images/sql_lab2_select_columns.png)
 
-- Filtered data using the `WHERE` clause to isolate machines running `'OS 2'`, which returned 80 devices that require system updates. 
+- Filtered data using the `WHERE` clause to isolate machines running 'OS 2', which returned 80 devices that require system updates. 
   ![Where Clause Example](../../images/sql_lab2_where_os2.png)
 
 - Retrieved employee records from the `employees` table by filtering the `department` column, identifying office details for staff in both the Finance and Sales departments.
