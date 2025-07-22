@@ -13,7 +13,7 @@ This lab focused on exploring the Linux file system to locate, read, and decrypt
 
 ## ✅ Key Tasks and Learnings
 
-- The lab began by navigating the /home/analyst directory to locate and read a README.txt file, which provided the initial hint about a hidden file. Using `ls` and `cat`, the contents of the home directory were explored, and the caesar subdirectory was identified as the next step.
+- The lab began by navigating the /home/analyst directory to locate and read a README.txt file, which provided the initial hint about a hidden file. Using `ls` and `cat`, the contents of the home directory were explored, and the caesar subdirectory was identified as the next step.  
   ![Locate README](../../images/encryption_lab1_readme.png)
 
 - Within the caesar subdirectory, the command `ls -a` revealed a hidden file named `.leftShift3`. This file was encrypted using a Caesar cipher with a left shift of three. The command `cat .leftShift3 | tr "d-za-cD-ZA-C" "a-zA-Z"` was used to successfully decrypt its contents, revealing the next decryption instruction.
