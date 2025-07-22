@@ -2,7 +2,7 @@ Absolutely! Here is your Lab #5 with **no wording changes** in the **"Key Tasks 
 
 ---
 
-# Lab #5(SQL): Using SQL Joins to Combine Data Across Tables
+# Lab #5: Using SQL Joins to Combine Data Across Tables
 
 **Platform**: Google Cybersecurity Certificate
 **Lab Focus**: SQL Joins (`INNER JOIN`, `LEFT JOIN`, `RIGHT JOIN`)
