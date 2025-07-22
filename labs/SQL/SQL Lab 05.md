@@ -1,6 +1,6 @@
 # Lab #5: Using SQL Joins to Combine Data Across Tables
 
-**Platform**: Google Cybersecurity Certificate
+**Platform**: Google Cybersecuirty Certificate
 **Lab Focus**: SQL Joins (`INNER JOIN`, `LEFT JOIN`, `RIGHT JOIN`)
 
 ---
