@@ -33,7 +33,7 @@ Used the `apropos` command to search for commands related to keywords like "firs
 - **Differentiated File and Directory Removal Commands:**  
 Reviewed the `rm` and `rmdir` commands using `whatis` or `man`, clarifying that `rm` removes files or non-empty directories (with options), while `rmdir` only removes empty directories.
 
-![Rm vs Rmdir Example](../images/linux_lab8_whatis.png)
+![Rm vs Rmdir Example](../images/linux_lab8_whatis_rm.png)
 
 - **Identified Group Creation Command:**  
 Searched for the appropriate command to create a new group using keyword-based search, confirming that `groupadd` is the correct command to use.
