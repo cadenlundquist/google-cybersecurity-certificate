@@ -1,4 +1,4 @@
-# Lab #1(Encryption): Decrypting Files and Hidden Messages in the Linux Shell
+# Lab #1: Decrypting Files and Hidden Messages in the Linux Shell
 
 **Platform**: Google Cybersecurity Certificate
 **Lab Focus**: File System Navigation, Caesar Cipher, `openssl` Decryption
