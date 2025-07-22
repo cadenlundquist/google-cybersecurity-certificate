@@ -12,24 +12,20 @@ This lab provided practical experience with essential Linux user management task
 ---
 
 ## ✅ Key Tasks and Learnings
-
-- **Added a New User and Assigned Primary Group:**  
-Used the `useradd` command to create a new user account for `researcher9`. Assigned them to the `research_team` group as their primary group using the `usermod -g` command.
+ 
+- Used the `useradd` command to create a new user account for `researcher9`. Assigned them to the `research_team` group as their primary group using the `usermod -g` command.
 
 ![Useradd Command Example](../../images/linux_lab7_useradd.png)
 
-- **Assigned File Ownership:**  
-Changed the ownership of the `project_r.txt` file, located in `/home/researcher2/projects`, to `researcher9` using the `chown` command, ensuring the new user had full control of their assigned project file.
+- Changed the ownership of the `project_r.txt` file, located in `/home/researcher2/projects`, to `researcher9` using the `chown` command, ensuring the new user had full control of their assigned project file.
 
 ![Chown File Example](../../images/linux_lab7_chown.png)
 
-- **Added a Secondary Group:**  
-Expanded `researcher9`'s responsibilities by adding them to the `sales_team` as a secondary group using the `usermod -a -G` command, without affecting their existing group memberships.
+-Expanded `researcher9`'s responsibilities by adding them to the `sales_team` as a secondary group using the `usermod -a -G` command, without affecting their existing group memberships.
 
 ![Usermod Add Group Example](../../images/linux_lab7_usermod.png)
 
-- **Deleted a User and Cleaned Up Group:**  
-Removed the `researcher9` user from the system using the `userdel` command. Also deleted the associated group with `groupdel` to clean up the environment, following good administrative practice.
+- Removed the `researcher9` user from the system using the `userdel` command. Also deleted the associated group with `groupdel` to clean up the environment, following good administrative practice.
 
 ![Userdel and Groupdel Example](../../images/linux_lab7_userdel.png)
 ![Userdel and Groupdel Example](../../images/linux_lab7_groupdel.png)
