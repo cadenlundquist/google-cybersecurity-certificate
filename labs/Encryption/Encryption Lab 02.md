@@ -1,4 +1,4 @@
-# Lab #2(Encryption): Hash Comparison and File Integrity Validation in Linux
+# Lab #2: Hash Comparison and File Integrity Validation in Linux
 
 **Platform**: Google Cybersecurity Certificate
 **Lab Focus**: `sha256sum`, `cmp`, File Integrity Check
