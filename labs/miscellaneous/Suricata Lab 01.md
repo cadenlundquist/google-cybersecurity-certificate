@@ -21,8 +21,8 @@ This lab provided practical experience in creating, analyzing, and triggering cu
   ![Triggered Alert](../../images/suricata_lab1_fastlog_trigger.png)
 
 - Examined JSON-based alert output by viewing the `eve.json` file, Suricata’s primary structured log file. Used the `jq` tool to format and analyze the log data, making it easier to read and extract specific fields such as alert severity, timestamp, protocol, destination IP, and flow ID. Also practiced isolating event data based on a unique flow ID to correlate related network traffic.
-  ![Eve JSON Output](../../images/suricata_lab1_eve_json_jq1.png)
-  ![Eve JSON Output](../../images/suricata_lab1_eve_json_jq2.png)
+  ![Eve JSON Output](../../images/suricata_lab1_eve_json_jg1.png)
+  ![Eve JSON Output](../../images/suricata_lab1_eve_json_jg2.png)
 
 ---
 
