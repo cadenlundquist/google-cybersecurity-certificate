@@ -21,7 +21,7 @@ This lab provided practical experience with essential Linux user management task
 
 ![Chown File Example](../../images/linux_lab7_chown.png)
 
--Expanded `researcher9`'s responsibilities by adding them to the `sales_team` as a secondary group using the `usermod -a -G` command, without affecting their existing group memberships.
+- Expanded `researcher9`'s responsibilities by adding them to the `sales_team` as a secondary group using the `usermod -a -G` command, without affecting their existing group memberships.
 
 ![Usermod Add Group Example](../../images/linux_lab7_usermod.png)
 
