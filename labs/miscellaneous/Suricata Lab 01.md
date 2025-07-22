@@ -15,12 +15,14 @@ This lab provided practical experience in creating, analyzing, and triggering cu
 
 - Examined a custom Suricata rule by viewing the `custom.rules` file located in `/home/analyst` to analyze a user-defined Suricata rule. The rule was broken down into its three components: action, header, and rule options. It was designed to trigger an alert when an HTTP GET request is detected leaving the home network to an external destination. The rule used variables like `$HOME_NET` and included parameters such as `msg`, `content`, `flow`, `sid`, and `rev`.
   ![Custom Rule](../../images/suricata_lab1_custom_rule.png)
+  ![Custom Rule](../../images/suricata_lab1_custom_rule1.png)
 
 - Triggered a custom rule by running Suricata against a sample PCAP file (`sample.pcap`) using the custom rule set. Suricata generated alert entries in the `fast.log` file after processing packets that matched the rule. Each alert entry displayed details such as the timestamp, rule ID, message text ("GET on wire"), and source and destination IP information.
   ![Triggered Alert](../../images/suricata_lab1_fastlog_trigger.png)
 
 - Examined JSON-based alert output by viewing the `eve.json` file, Suricata’s primary structured log file. Used the `jq` tool to format and analyze the log data, making it easier to read and extract specific fields such as alert severity, timestamp, protocol, destination IP, and flow ID. Also practiced isolating event data based on a unique flow ID to correlate related network traffic.
-  ![Eve JSON Output](../../images/suricata_lab1_eve_json_jq.png)
+  ![Eve JSON Output](../../images/suricata_lab1_eve_json_jq1.png)
+  ![Eve JSON Output](../../images/suricata_lab1_eve_json_jq2.png)
 
 ---
 
