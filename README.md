@@ -1,4 +1,3 @@
 # google-cybersecurity-certificate
-Included are my projects and labs completed during this cybersecurity certification.  
-These labs were completed as part of the Google Cybersecurity Certificate.  
+Included in this repository are my projects and labs completed for this cybersecurity certification.   
 All screenshots, reflections, and summaries are my own.
