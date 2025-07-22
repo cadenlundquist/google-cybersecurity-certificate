@@ -1,6 +1,6 @@
 # Lab #1: Exploring and Filtering Network Traffic with Wireshark
 
-**Platform**: Google Cybersecurity Certificate
+**Platform**: Google Cybersecurity Certificate  
 **Lab Focus**: `Wireshark`, Packet Filtering, Protocol Analysis
 
 ---
