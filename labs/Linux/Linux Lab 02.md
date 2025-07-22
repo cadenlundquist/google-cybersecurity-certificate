@@ -16,13 +16,13 @@ This lab focused on using foundational Bash commands to generate and manipulate 
 ### Generated Output with `echo`
 Practiced using the `echo` command to print text to the shell. Tested both unquoted and quoted strings to understand how quotation marks help group words or special characters as a single argument.
 
-![Echo Command Example](../images/linux_lab2_echo.png)
+![Echo Command Example](../../images/linux_lab2_echo.png)
 
 
 ### Performed Calculations with `expr`
 Used the `expr` command to perform simple arithmetic operations. This included subtraction (e.g., identifying false positive alerts) and multiplication (e.g., estimating annual login attempts), reinforcing how spacing between operands is necessary in shell arithmetic.
 
-![Expr Arithmetic Example](../images/linux_lab2_subtraction.png)
+![Expr Arithmetic Example](../../images/linux_lab2_subtraction.png)
 
 
 ### Cleared the Shell with `clear`
@@ -32,7 +32,7 @@ Used the `clear` command to wipe the shell screen, creating a clean workspace fo
 ### Explored Optional Exercises
 Applied `echo` and `expr` independently to generate custom outputs and perform additional calculations. 
 
-![Optional Exercises Screenshot](../images/linux_lab2_division.png)
+![Optional Exercises Screenshot](../../images/linux_lab2_division.png)
 
 ---
 
