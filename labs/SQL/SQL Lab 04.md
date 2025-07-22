@@ -13,28 +13,28 @@ This lab focused on using logical operators like `AND`, `OR`, and `NOT` to filte
 
 ## ✅ Key Tasks and Learnings
 
-- **Filtered failed login attempts after business hours**  
-  Used `WHERE login_time > '18:00' AND success = 0`, identifying **19** such records.  
+- Filtered failed login attempts after business hours 
+  Used `WHERE login_time > '18:00' AND success = 0`, identifying 19 such records.  
   ![Failed Logins After Hours](../../images/sql_lab4_failed_after_hours.png)
 
-- **Retrieved login attempts on specific dates**  
-  Queried with `WHERE login_date = '2022-05-09' OR login_date = '2022-05-08'`, returning **44** records.  
+- Retrieved login attempts on specific dates  
+  Queried with `WHERE login_date = '2022-05-09' OR login_date = '2022-05-08'`, returning 44 records.  
   ![Login Dates OR Filter](../../images/sql_lab4_login_or_filter.png)
 
-- **Excluded logins from Mexico using NOT LIKE**  
-  Applied `NOT LIKE 'MEX%'` on the `country` column, identifying **144** login attempts that did not originate from Mexico.  
+- Excluded logins from Mexico using NOT LIKE  
+  Applied `NOT LIKE 'MEX%'` on the `country` column, identifying 144 login attempts that did not originate from Mexico.  
   ![NOT LIKE Filter](../../images/sql_lab4_not_like_mex.png)
 
-- **Queried employees in Marketing from the East building**  
+- Queried employees in Marketing from the East building
   Used `WHERE department = 'Marketing' AND office LIKE 'East%'` to find employees like `elarson`.  
   ![East Marketing Employees](../../images/sql_lab4_east_marketing.png)
 
-- **Retrieved employees from Finance or Sales**  
+- Retrieved employees from Finance or Sales  
   Used `WHERE department = 'Finance' OR department = 'Sales'` to ensure both groups were updated.  
   ![Finance or Sales Employees](../../images/sql_lab4_finance_or_sales.png)
 
-- **Filtered out IT department employees**  
-  Applied `WHERE NOT department = 'Information Technology'`, identifying **161** employees needing updates.  
+- Filtered out IT department employees  
+  Applied `WHERE NOT department = 'Information Technology'`, identifying 161 employees needing updates.  
   ![NOT IT Employees](../../images/sql_lab4_not_it.png)
 
 ---
