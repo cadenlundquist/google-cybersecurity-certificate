@@ -1,4 +1,4 @@
-# Lab #1(Packet sniffing): Exploring and Filtering Network Traffic with Wireshark
+# Lab #1: Exploring and Filtering Network Traffic with Wireshark
 
 **Platform**: Google Cybersecurity Certificate
 **Lab Focus**: `Wireshark`, Packet Filtering, Protocol Analysis
