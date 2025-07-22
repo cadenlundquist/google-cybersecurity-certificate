@@ -16,7 +16,7 @@ This lab provided hands-on experience with using Wireshark, a powerful network a
 - Opened and Explored a Packet Capture File: Opened a .pcap file using Wireshark and reviewed its main interface, which displays captured network packets along with their metadata such as source/destination IPs, protocol types, timestamps, and brief info summaries.
   ![Opened PCAP](../../images/packet_lab1_pcap_opened.png)
 
-- Applied Basic IP Address Filter and Inspected Packets: Filtered traffic using `ip.addr == 142.250.1.139` and examined protocol layers (Frame, Ethernet II, IPv4, TCP) in a selected packet. Identified the TCP destination port as 80, and explored TCP flags.
+- Applied Basic IP Address Filter and Inspected Packets: Filtered traffic using `ip.addr == 142.250.1.139` and examined protocol layers (Frame, Ethernet II, IPv4, TCP) in a selected packet. Identified the TCP destination port as 80, and explored TCP flags.  
   ![IP Filter](../../images/packet_lab1_ip_filter1.png)
   ![IP Filter](../../images/packet_lab1_ip_filter2.png)
 
@@ -24,7 +24,7 @@ This lab provided hands-on experience with using Wireshark, a powerful network a
   Source IP: `ip.src == 142.250.1.139`,
   Destination IP: `ip.dst == 142.250.1.139`,
   MAC Address: `eth.addr == 42:01:ac:15:e0:02`.
-  Identified TCP as the internal protocol for MAC-related packets in the IPv4 section.
+  Identified TCP as the internal protocol for MAC-related packets in the IPv4 section.  
   ![MAC Filter](../../images/packet_lab1_mac_filter1.png)
   ![MAC Filter](../../images/packet_lab1_mac_filter2.png)
   ![MAC Filter](../../images/packet_lab1_mac_filter3.png)
